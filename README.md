@@ -26,6 +26,6 @@ The following are the instruction formats
 4. OR-1010
 5. XOR-1100
 
-# The following is the final design of the CPU
+# Final design of the CPU
 
 ![alt text](https://github.com/Abhinav-S1/4bit_CPU/blob/main/CPU.png?raw=true)
